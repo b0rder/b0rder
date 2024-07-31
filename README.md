@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Here is a point I am learning GitHub 🌱
+
+
 <!--
 **b0rder/b0rder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
