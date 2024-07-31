@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is a point I am learning GitHub 🌱
+If you found something interesting here, let me know 😄
 
 
 <!--
